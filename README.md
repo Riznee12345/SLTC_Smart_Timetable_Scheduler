@@ -1,2 +1,48 @@
-# SLTC_Smart_Timetable_Scheduler
-SLTC Timetable Scheduling App is a web-based tool designed to automate and optimize academic timetable generation. It helps universities manage classes, lecturers, and room allocations efficiently while avoiding conflicts and saving time.
+# 📅 SLTC Smart Timetable Scheduler 
+*A Smarter Way to Plan Your Academic Life*
+
+---
+
+## 📘 Project Description
+The SLTC Timetable Scheduling App is an academic timetable automation tool developed by Group 39 of SLTC Research University. The primary goal of this project is to eliminate the manual effort involved in scheduling classes, managing lecturer availability, and assigning classrooms. It provides an efficient and accurate solution for timetable generation that reduces human error and scheduling conflicts.
+
+Built using HTML, CSS, JavaScript, PHP, and MySQL, the application features an intuitive user interface and powerful backend logic to generate optimized timetables. Administrators can input course details, lecturer preferences, and room capacities, and the system will intelligently allocate time slots based on availability and constraints.
+
+This app is handy for:
+- Universities and schools managing large volumes of classes
+- Faculty and admin staff need a fast scheduling solution
+- Students wanting clear visibility of their weekly schedules
+
+
+--- 
+## 🚀 Overview
+The **SLTC Smart Timetable Scheduling App** is a web-based solution developed by Group 39 to automate and simplify timetable generation for academic institutions. Designed with students and faculty in mind, the app ensures optimized class scheduling, conflict avoidance, and easy customization.
+
+---
+
+## 🎯 Features
+- ✅ **Automated Timetable Generation**  
+- 🧠 **Smart Conflict Detection**  
+- 📚 **Course & Lecturer Management**  
+- 🕒 **Classroom & Time Slot Allocation**  
+- 📊 **User-Friendly Interface**  
+- 📤 **Export & Print Options**  
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** PHP  
+- **Database:** MySQL  
+- **Other Tools:** XAMPP (Apache), phpMyAdmin
+
+---
+
+## 📁 Folder Structure
+│ <br>
+├── assets/ # CSS, JS, Images <br>
+├── includes/ # Backend logic (PHP) <br>
+├── timetable/ # Scheduling modules <br>
+├── database.sql # MySQL database structure <br>
+├── index.html # Landing page <br>
+└── README.md # Project documentation <br>
