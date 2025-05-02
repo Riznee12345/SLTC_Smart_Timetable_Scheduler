@@ -3,8 +3,8 @@
 
 ---
 
-## 📘 Project Description
-The SLTC Timetable Scheduling App is an academic timetable automation tool developed by Group 39 of SLTC Research University. The primary goal of this project is to eliminate the manual effort involved in scheduling classes, managing lecturer availability, and assigning classrooms. It provides an efficient and accurate solution for timetable generation that reduces human error and scheduling conflicts.
+## 📘 Project Description <br>
+- The SLTC Timetable Scheduling App is an academic timetable automation tool developed by Group 39 of SLTC Research University. The primary goal of this project is to eliminate the manual effort involved in scheduling classes, managing lecturer availability, and assigning classrooms. It provides an efficient and accurate solution for timetable generation that reduces human error and scheduling conflicts.
 Built using HTML, CSS, JavaScript, PHP, and MySQL, the application features an intuitive user interface and powerful backend logic to generate optimized timetables. Administrators can input course details, lecturer preferences, and room capacities, and the system will intelligently allocate time slots based on availability and constraints.
 ---
 [Watch the YouTube video here](https://youtu.be/PHrjiea5nAI)
