@@ -40,7 +40,7 @@ The **SLTC Smart Timetable Scheduling App** is a web-based solution developed by
 
 ---
 
-## 📁     Folder Structure
+## 📁    Folder Structure
 │ <br>
 ├── assets/ # CSS, JS, Images <br>
 ├── includes/ # Backend logic (PHP) <br>
