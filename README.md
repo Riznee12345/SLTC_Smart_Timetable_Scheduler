@@ -1,4 +1,4 @@
-# SLTC Smart Timetable Scheduler 📅📅📅📅 ri
+# SLTC Smart Timetable Scheduler 📅📅📅📅 r
 *A Smarter Way to Plan Your Academic Life*
 
 ---
